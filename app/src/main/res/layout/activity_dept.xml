@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.samratritwik.sit.DeptActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        
+     <Button
+         android:text="Computer Science and Engineering"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:id="@+id/text20"/>
+        <Button
+            android:text="Electrical Engineering"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text9"/>
+        <Button
+            android:text="Electronics And Communication Engineering"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text10"/>
+        <Button
+            android:text="Information Technology"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text11"/>
+        <Button
+            android:text="Civil Engineering"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text12"/>
+        <Button
+            android:text="Department Of Engineering Sciences And Humanities"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text13"/>
+        <Button
+            android:text="Hotel Management And Catering Technology"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text14"/>
+        <Button
+            android:text="Master of Business Adminstration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text15"/>
+        <Button
+            android:text="Department Of Computer Application"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text16"/>
+        <Button
+            android:text="Bachelor In Hospitality Management"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text17"/>
+        
+        
+    </LinearLayout>
+</ScrollView>
